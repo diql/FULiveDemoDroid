@@ -87,6 +87,11 @@
             android:name=".MagicPhotoDeleteActivity"
             android:screenOrientation="portrait"
             android:theme="@style/FullScreenTheme" />
+
+        <activity android:name=".NewBeautyActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullScreenTheme"/>
+
     </application>
 
 </manifest>
